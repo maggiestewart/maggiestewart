@@ -1,6 +1,6 @@
 ### 👋👋 Hi there!! I'm Maggie (she/her)
 
-#### I'm a rising Junior at Louisiana State University (LSU) in the Ogden Honors College. I am majoring in Computer Science with a Second Discipline concentration in Mathematics
+#### 📚📚 I'm a rising Junior at Louisiana State University (LSU) in the Ogden Honors College. I am majoring in Computer Science with a Second Discipline concentration in Mathematics
 
 #### 🌱🌱 In my free time, I am relearning Python to develop my interests in data analytics/visualization
 
