@@ -2,7 +2,7 @@
 
 #### 📚📚 I'm a rising Junior at Louisiana State University (LSU) in the Ogden Honors College. My major is Computer Science with a Second Discipline concentration in Mathematics
 
-#### 🌱🌱 In my free time, I am relearning Python to develop my interests in data analytics/visualization
+#### 🌱🌱 In my free time, I am relearning Python to develop my interests in data analytics/visualization and working through LeetCode challenges to improve my coding skills with Java.
 
 #### 🔭🔭 I am also working on updating my class project Revamped LSU Schedule Booklet on Github and working on my personal website with Github Pages
 
