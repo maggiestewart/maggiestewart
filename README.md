@@ -2,7 +2,7 @@
 
 - 📚📚 I'm a rising Junior at Louisiana State University (LSU) in the Ogden Honors College. My major is Computer Science with a Second Discipline concentration in Mathematics
 
-- 🌱🌱 In my free time, I am relearning [Python](https://github.com/maggiestewart/PythonPractice) to develop my interests in data analytics/visualization and working through [LeetCode challenges](https://github.com/maggiestewart/LeetCodePractice) to improve my coding skills with Java.
+- 🌱🌱 In my free time, I am relearning [Python](https://github.com/maggiestewart/PythonPractice) to develop my interests in data analytics/visualization and working through [LeetCode challenges](https://github.com/maggiestewart/LeetCodePractice) to improve my coding skills with Java/Python.
 
 - 🔭🔭 I am also working on updating my class project [Revamped LSU Schedule Booklet](https://github.com/maggiestewart/LSUScheduleBookletProject) on Github and working on my [personal website](https://www.maggiestewart225.com) with Github Pages
 
