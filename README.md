@@ -1,12 +1,10 @@
-### 👋👋 Hi there!! I'm Maggie (she/her)
+### 👋👋 Hi there, I'm [Maggie](https://www.maggiestewart225.com)!
 
-#### 📚📚 I'm a rising Junior at Louisiana State University (LSU) in the Ogden Honors College. My major is Computer Science with a Second Discipline concentration in Mathematics
+- 📚📚 I'm a rising Junior at Louisiana State University (LSU) in the Ogden Honors College. My major is Computer Science with a Second Discipline concentration in Mathematics
 
-#### 🌱🌱 In my free time, I am relearning Python to develop my interests in data analytics/visualization and working through LeetCode challenges to improve my coding skills with Java.
+- 🌱🌱 In my free time, I am relearning [Python](https://github.com/maggiestewart/PythonPractice) to develop my interests in data analytics/visualization and working through [LeetCode challenges](https://github.com/maggiestewart/LeetCodePractice) to improve my coding skills with Java.
 
-#### 🔭🔭 I am also working on updating my class project Revamped LSU Schedule Booklet on Github and working on my personal website with Github Pages
-
-#### 📫📫 Feel free to contact me via my website!
+- 🔭🔭 I am also working on updating my class project [Revamped LSU Schedule Booklet](https://github.com/maggiestewart/LSUScheduleBookletProject) on Github and working on my [personal website](https://www.maggiestewart225.com) with Github Pages
 
 <!--
 **maggiestewart/maggiestewart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
