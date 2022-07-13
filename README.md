@@ -1,6 +1,6 @@
 ![Blue Ocean Simple Professional LinkedIn Banner](https://user-images.githubusercontent.com/81037163/178507560-fe8d4b08-ae99-4dfc-8c83-f31294736ff7.png)
 
-### 👋 Hi there, I'm Maggie!
+### <div align="center">👋 Hi there, I'm Maggie!</div>
 
 - 📚 I'm a rising Junior at Louisiana State University (LSU) in the Ogden Honors College. My major is Computer Science with a Second Discipline concentration in Mathematics
 
@@ -8,9 +8,9 @@
 
 - 🔭 I am also working on updating my class project [Revamped LSU Schedule Booklet](https://github.com/maggiestewart/LSUScheduleBookletProject) on Github and working on my [personal website](https://www.maggiestewart225.com) with Github Pages
 
-### Feel free to take a look at my projects on Github and connect with me!
+### <div align="center">Feel free to take a look at my projects on Github and connect with me!</div>
 
-<p> <a href="https://www.linkedin.com/in/maggiestewart225/">LinkedIn</a> | 
+<p align="center"> <a href="https://www.linkedin.com/in/maggiestewart225/">LinkedIn</a> | 
 <a href="https://twitter.com/MaggieS225"> Twitter </a> | 
 <a href="https://maggiestewart225.com"> Personal Website<p>
 
