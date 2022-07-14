@@ -2,7 +2,7 @@
 
 ### <div align="center">👋 Hi there, I'm Maggie!</div>
 
-- 📚 I'm currently a Junior (set to graduate in May 2024) at LSU in the Ogden Honors College, majoring in Computer Science with a Second Discipline concentration in Mathematics
+- 📚 I'm currently a Junior at LSU in the Ogden Honors College (set to graduate in May 2024), majoring in Computer Science with a Second Discipline concentration in Mathematics.
 
 - 🔭 I am working on updating my class project [Revamped LSU Schedule Booklet](https://github.com/maggiestewart/LSUScheduleBookletProject) and developing my [personal website](https://www.maggiestewart225.com).
 
