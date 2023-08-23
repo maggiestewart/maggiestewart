@@ -2,11 +2,11 @@
 
 ### <div align="center">👋 Hi there, I'm Maggie!</div>
 
-- 📚 I'm currently a Junior at LSU in the Ogden Honors College (set to graduate in May 2024), majoring in Computer Science with a Second Discipline concentration in Mathematics and a minor in Mathematics (ask me about it!!).
+- 📚 I'm currently a Senior at LSU in the Ogden Honors College (set to graduate in May 2024), majoring in Computer Science with a Second Discipline concentration and a minor in Mathematics (ask me about it!!).
 
 - 🔭 I am working on a group project for CSC 4330 at LSU where we're creating a mobile app with Flutter, which we revealed at our final presentation in early December. Check out our [LinkedIn post](https://www.linkedin.com/posts/maggiestewart225_industry-activity-6997605501874180096-V0le?utm_source=share&utm_medium=member_desktop)!
 
-- 🌱 In my free time, I am working on a data analytics project to track Amazon spending trends in my family, developing my personal website (in development), and learning how to make UI/UX designs with Figma.
+- 🌱 In my free time, I am working on a website project from start to finish (design -> implementation -> dynamic hosting) for my Honors Thesis and developing my personal website for the Distinguished Communicators program.
 
 ### <div align="center">Feel free to take a look at my projects on Github and connect with me!</div>
 
