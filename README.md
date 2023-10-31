@@ -6,16 +6,11 @@
 
 - 🔭 I am working on a group project for CSC 4330 at LSU where we're creating a mobile app with Flutter, which we revealed at our final presentation in early December. Check out our [LinkedIn post](https://www.linkedin.com/posts/maggiestewart225_industry-activity-6997605501874180096-V0le?utm_source=share&utm_medium=member_desktop)!
 
-- 🌱 In my free time, I am working on a website project from start to finish (design -> implementation -> dynamic hosting) for my Honors Thesis and developing my personal website for the Distinguished Communicators program.
+- 🌱 In my free time, I am working on a website project from start to finish (design -> implementation -> dynamic hosting) for my Honors Thesis and developing my <a href="https://maggiestewart225.com">personal website</a> for the Distinguished Communicators program.
 
 ### <div align="center">Feel free to take a look at my projects on Github and connect with me!</div>
 
-<p align="center"> <a href="https://www.linkedin.com/in/maggiestewart225/">LinkedIn</a><p>
-
-<!-- <p align="center"> <a href="https://www.linkedin.com/in/maggiestewart225/">LinkedIn</a> | 
-<a href="https://maggiestewart.github.io/MaggiePersonalWebsite/"> Personal Website<p> -->
-
-
+<p align="center"> <a href="https://www.linkedin.com/in/maggiestewart225/">LinkedIn</a> | <a href="https://maggiestewart225.com">Personal Website</a><p>
 
 <!--
 **maggiestewart/maggiestewart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
