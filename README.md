@@ -3,7 +3,7 @@
 ### <div align="center">👋 Hi there, I'm Maggie!</div>
 
 - 📚 I am a proud alumna of Louisiana State University, where I graduated with a degree Computer Science (specialization/minor in Mathematics) in May 2024 and a MBA (specialization in Management Consulting) and a graduate certificate in Analytics in May 2026.
-- 
+
 <!--
 - 🔭 I worked on a group project for CSC 4330 at LSU where we're creating a mobile app with Flutter, which we revealed at our final presentation in early December 2022. Check out our [LinkedIn post](https://www.linkedin.com/posts/maggiestewart225_industry-activity-6997605501874180096-V0le?utm_source=share&utm_medium=member_desktop)!
 -->
