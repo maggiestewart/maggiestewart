@@ -2,15 +2,15 @@
 
 ### <div align="center">👋 Hi there, I'm Maggie!</div>
 
-- 📚 I graduated summa cum laude and with College Honors (highest distinction from the Ogden Honors College) from LSU where I majored in Computer Science with a concentration and a minor in Mathematics. I'm currently an MBA candidate pursuing a specialization in Management Consulting and a graduate certificate in Data Analytics.
-
+- 📚 I am a proud alumna of Louisiana State University, where I graduated with a degree Computer Science (specialization/minor in Mathematics) in May 2024 and a MBA (specialization in Management Consulting) and a graduate certificate in Analytics in May 2026.
+- 
 <!--
 - 🔭 I worked on a group project for CSC 4330 at LSU where we're creating a mobile app with Flutter, which we revealed at our final presentation in early December 2022. Check out our [LinkedIn post](https://www.linkedin.com/posts/maggiestewart225_industry-activity-6997605501874180096-V0le?utm_source=share&utm_medium=member_desktop)!
 -->
 
-- 🌱 In my free time, I enjoy updating my website, maintaining my 830+ day streak on Duolingo, and trying new recipes!
+- 🌱 In my free time, I love working out, trying new recipes, and playing New York Times games (especially Wordle)!
 
-### <div align="center">Thanks for stopping by! Feel free to take a look at my projects on Github and connect with me!</div>
+### <div align="center">Feel free to take a look at my projects on Github and connect with me on LinkedIn!</div>
 
 <p align="center"> <a href="https://www.linkedin.com/in/maggiestewart225/">LinkedIn</a> | <a href="https://maggiestewart225.com">Personal Website</a><p>
 
